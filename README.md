@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I am Apolo Rae Serrano 👋
 
-<!--
-**ApoloRaeSerrano919/ApoloRaeSerrano919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer focused on backend systems, cloud infrastructure, AI platforms, MLOps, and AI security.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- TypeScript
+- JavaScript
+- Node.js
+- FastAPI
+- PostgreSQL
+- Redis
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- PyTorch
+- Hugging Face
+- RAG
+- MLflow
+
+## Current Focus
+
+- AI Platform Engineering
+- Secure RAG Systems
+- MLOps
+- LLM & Agent Security
+- Cloud Infrastructure
+- Backend Architecture
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/aresjae

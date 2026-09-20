@@ -5,6 +5,7 @@ Senior Software Engineer focused on backend systems, cloud infrastructure, AI pl
 ## Tech Stack
 
 - Python
+- C++
 - TypeScript
 - JavaScript
 - Node.js

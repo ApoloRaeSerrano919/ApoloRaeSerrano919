@@ -33,4 +33,4 @@ Senior Software Engineer focused on backend systems, cloud infrastructure, AI pl
 
 ## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/aresjae
+- LinkedIn: https://www.linkedin.com/in/apolorae919
